@@ -1,0 +1,2 @@
+-Add a helper function to check the category and card
+-Add a function so that we can also register income
